@@ -1,0 +1,9 @@
+# Raw unrotated frame archive
+videotojpg.com_Your_Name_jpg_20261022_140319_frames_001-500/
+
+# Environment & logs
+.env
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
